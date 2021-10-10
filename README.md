@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AB-IN-lsy
 - 👀 I’m interested in coding!!!
 - 🌱 I’m currently learning algorithms.
-- 💞️ I’m looking to collaborate on big data development
-- 📫 My email: liusy200708@163.com
-- 🎨 My CSDN blog: https://blog.csdn.net/qq_45859188
+- 💞️ I’m looking to collaborate on big data development.
+- 📫 My Email: liusy200708@163.com
+- 🎨 My CSDN Blog: https://blog.csdn.net/qq_45859188
 - 💙 GLAD TO MEET YOU!!!
 
 <!---
