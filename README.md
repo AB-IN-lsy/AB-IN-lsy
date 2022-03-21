@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning algorithms.
 - 💞️ I’m looking to collaborate on big data development.
 - 📫 My Email: liusy200708@163.com
-- 🎨 My CSDN Blog: https://blog.csdn.net/qq_45859188
+- 🎨 My CSDN Blog: https://ab-in.blog.csdn.net
 - 🎎 My Personal Blog: https://www.ab-in.cn
 - 💙 GLAD TO MEET YOU!!!
 
