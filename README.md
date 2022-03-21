@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AB-IN-lsy
+- 👋 Hi, I’m AB-IN
 - 👀 I’m interested in coding!!!
 - 🌱 I’m currently learning algorithms.
 - 💞️ I’m looking to collaborate on big data development.
